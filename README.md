@@ -1,0 +1,2 @@
+# Scipr
+life is pointless
